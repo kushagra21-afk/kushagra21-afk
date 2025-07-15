@@ -1,7 +1,8 @@
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kushagra-singhal&show_icons=true&count_private=true&theme=darcula&hide=issues&hide_border=true&bg_color=00000000" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra-singhal&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8&hide=jupyter%20notebook,html,php" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kushagra-singhal&theme=darcula&hide_border=true&background=FFFFFF00" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kushagra-singhal&theme=blue-green&hide_border=true&background=FFFFFF00" />
+
 </p>
 
 ---
