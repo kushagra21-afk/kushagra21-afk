@@ -4,7 +4,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kushagra21-afk&theme=tokyonight&hide_border=true&background=FFFFFF00" />
 </p>
 
-
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
