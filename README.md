@@ -1,10 +1,19 @@
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kushagra21-afk&show_icons=true&count_private=true&theme=tokyonight&hide=issues&hide_border=true&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra21-afk&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,mdx,tex,html,lua,php&exclude_repo=Pacman-AI" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kushagra21-afk&theme=tokyonight&hide_border=true&background=FFFFFF00" />
-</p>
+<!-- Macos like icons -->
+<div align="left">
+  <b><pwn>🔴 🟡 🟢</pwn></b>
+</div>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=$+Hi,+Kushagra+here+xD&font=Fira%20Code&center=true&width=440&height=45&color=09e611&vCenter=true&pause=10&size=22" />
+</div>
+
+###
+
+<div align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=kushagra21-afk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhataasim1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
@@ -13,3 +22,5 @@
   </a>
 </p>
 
+<!-- End of README -->
+---
