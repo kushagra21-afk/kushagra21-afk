@@ -18,7 +18,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,go,rust,cpp,html,css,nodejs,express,nextjs,react,tailwind,fastapi,nginx,docker,kubernetes,redis,mongodb,postgres,kafka,sqlite,aws,vercel,bash,git,github,linux,prisma,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,go,rust,nodejs,express,nextjs,react,tailwind,fastapi,nginx,docker,kubernetes,redis,mongodb,postgres,kafka,sqlite,aws,vercel,bash,git,github,linux,prisma,vscode&perline=10" />
   </a>
 </p>
 
